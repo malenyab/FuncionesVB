@@ -1,0 +1,10 @@
+c:\users\malen\documents\visual studio 2012\Projects\FuncionesVB\FuncionesVB\bin\Debug\FuncionesVB.exe.config
+c:\users\malen\documents\visual studio 2012\Projects\FuncionesVB\FuncionesVB\bin\Debug\FuncionesVB.exe
+c:\users\malen\documents\visual studio 2012\Projects\FuncionesVB\FuncionesVB\bin\Debug\FuncionesVB.pdb
+c:\users\malen\documents\visual studio 2012\Projects\FuncionesVB\FuncionesVB\bin\Debug\FuncionesVB.xml
+c:\users\malen\documents\visual studio 2012\Projects\FuncionesVB\FuncionesVB\obj\Debug\FuncionesVB.Form1.resources
+c:\users\malen\documents\visual studio 2012\Projects\FuncionesVB\FuncionesVB\obj\Debug\FuncionesVB.Resources.resources
+c:\users\malen\documents\visual studio 2012\Projects\FuncionesVB\FuncionesVB\obj\Debug\FuncionesVB.vbproj.GenerateResource.Cache
+c:\users\malen\documents\visual studio 2012\Projects\FuncionesVB\FuncionesVB\obj\Debug\FuncionesVB.exe
+c:\users\malen\documents\visual studio 2012\Projects\FuncionesVB\FuncionesVB\obj\Debug\FuncionesVB.xml
+c:\users\malen\documents\visual studio 2012\Projects\FuncionesVB\FuncionesVB\obj\Debug\FuncionesVB.pdb
